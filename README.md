@@ -1,2 +1,2 @@
 # devops1 class
-learning GIT
+learning1 GIT
